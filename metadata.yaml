@@ -1,0 +1,28 @@
+_repo: The-Stronger-Influence_38176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, F. E. Mills (Florence Ethel Mills)
+    aliases:
+    - Young, F.E. Mills
+    - Young, Florence Ethel Mills
+    birthdate: 1875
+    gutenberg_agent_id: '38732'
+    url: http://www.gutenberg.org/2009/agents/38732
+description: ''
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'South Africa -- Fiction'
+title: The Stronger Influence
+url: http://www.gutenberg.org/ebooks/38176
